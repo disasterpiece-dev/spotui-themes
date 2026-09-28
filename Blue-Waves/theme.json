@@ -1,6 +1,6 @@
 {
 	"name": "Blue Waves",
-	"screenshot_url": "",
+	"screenshot_url": "https://raw.githubusercontent.com/disasterpiece-dev/spotui-themes/refs/heads/main/Blue-Waves/Blue_Wave_Preview.png",
 	"commands": [
 		"tui -wp https://raw.githubusercontent.com/disasterpiece-dev/spotui-themes/refs/heads/main/Blue-Waves/images/dark_blue_wavy.png -o 0.3",
 		"tui -bar -bg #0a0a0a -border #3f72bb",
