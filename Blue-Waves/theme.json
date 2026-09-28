@@ -1,0 +1,22 @@
+{
+	"name": "Blue Waves",
+	"screenshot_url": "",
+	"commands": [
+		"tui -wp https://raw.githubusercontent.com/disasterpiece-dev/spotui-themes/refs/heads/main/Blue-Waves/images/dark_blue_wavy.png -o 0.3",
+		"tui -bar -bg #0a0a0a -border #3f72bb",
+		"tui -inputs -text #ffffff -border #00000000",
+		"tui -ly -cp -active #3b6fba -inactive #505152  -near #294977",
+		"tui -l off",
+		"tui -panel -bg #1d1d1ebf -border #3b6fba -text #ffffff",
+		"tui -ly -animation on",
+		"tui -viz -color #11233d",
+		"tui -inputs -buttons off",
+		"tui bind "h" "help" ",
+		"tui bind "p" "playlist" ",
+		"tui bind "l" "lyrics" ",
+		"tui bind "a" "add2list" ",
+		"tui bind "v" "visualizer" ",
+		"tui actions create autolyrics",
+		"tui actions "autolyrics" "actions:spotui@pane_close>!lyrics" "lyrics on"",
+	]
+}
