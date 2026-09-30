@@ -1,0 +1,18 @@
+{
+	"name": "Kitty",
+	"screenshot_url": "",
+	"commands": [	
+		"tui -wp https://raw.githubusercontent.com/disasterpiece-dev/spotui-themes/refs/heads/main/Kitty/images/cat.jpg",
+		"tui -bar -bg #000000 -border #ebeb74 -text #ebeb74",
+		"tui -inputs -text #ffffff -border #00000000",
+		"tui -ly -cp -active #ebeb74 -near #ffffff -inactive #8a959c",
+		"tui -ly -animation on",
+		"tui -ly -spacing 26px",
+		"tui -l off",
+		"tui -viz -color #ebeb74",
+		"tui -inputs -buttons off",
+		"tui actions create autolyrics",
+		"tui actions "autolyrics" "actions:spotui@pane_close>!lyrics" "lyrics on"",
+		"tui -bar -c -progress retro"
+		]
+}
