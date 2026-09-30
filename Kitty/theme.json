@@ -1,6 +1,6 @@
 {
 	"name": "Kitty",
-	"screenshot_url": "",
+	"screenshot_url": "https://raw.githubusercontent.com/disasterpiece-dev/spotui-themes/refs/heads/main/Kitty/Kitty_Preview.png",
 	"commands": [	
 		"tui -wp https://raw.githubusercontent.com/disasterpiece-dev/spotui-themes/refs/heads/main/Kitty/images/cat.jpg",
 		"tui -bar -bg #000000 -border #ebeb74 -text #ebeb74",
