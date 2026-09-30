@@ -14,6 +14,16 @@ A dark blue theme with a wavy gradient wallpaper.
 - **Wallpaper credit:** [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page2.md)
 
 
+### Kitty
+
+A beautiful black cat glaring at you with his big eyes.
+
+![Kitty screenshot](Kitty/Kitty_Preview.png)
+
+- **Theme file:** [`Kitty/theme.json`](Kitty/theme.json)
+- **Wallpaper credit:** [D3Ext/aesthetic-wallapapers](https://github.com/D3Ext/aesthetic-wallpapers/blob/main/pages/Page10.md)
+
+
 ## License
 
 Wallpapers are credited to their original sources where known. Theme
